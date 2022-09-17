@@ -13,7 +13,7 @@ Install the package with pip
 
 or 
 
-    pip install git+https://github.com/wahlflo/AurorunInfDeobfuscator
+    pip install git+https://github.com/wahlflo/AutorunInfDeobfuscator
 
 ## Features
 - It removes all non ASCII characters
